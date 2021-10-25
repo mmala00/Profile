@@ -10,7 +10,6 @@
 
 ![profile_pic](https://github.com/mmala00/Profile/blob/main/photo.jpg=250x250)
 
-![profile_pic2](https://github.com/mmala00/Profile/blob/main/photo.jpg | width=100)
 
 <!-- CONTACT Section Ends -->
 

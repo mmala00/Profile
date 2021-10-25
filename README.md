@@ -40,6 +40,8 @@ Seasoned IT Professional with over 10 years of experience in Retail, IT, and Inv
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
+Bachelor Degree in Information and Computer Science
+
 <!-- Add your details -->
 
 

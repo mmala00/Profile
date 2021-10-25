@@ -8,7 +8,7 @@
 &nbsp;&nbsp; 📲 +65-XXXXXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/maribelle/) 
 
-![profile_pic]https://github.com/mmala00/Profile/blob/main/photo.jpg
+![profile_pic](https://github.com/mmala00/Profile/blob/main/photo.jpg)
 
 <!-- CONTACT Section Ends -->
 

@@ -8,7 +8,7 @@
 &nbsp;&nbsp; 📲 +65-XXXXXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/maribelle/) 
 
-<img src="https://github.com/mmala00/Profile/blob/main/photo.jpg" width="52">
+<img src="https://github.com/mmala00/Profile/blob/main/photo.jpg" width="80">
 
 <!-- Another way to post an image
 ![profile_pic](https://github.com/mmala00/Profile/blob/main/photo.jpg) -->

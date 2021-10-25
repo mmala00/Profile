@@ -10,7 +10,8 @@
 
 <img src="https://github.com/mmala00/Profile/blob/main/photo.jpg" width="52">
 
-![profile_pic](https://github.com/mmala00/Profile/blob/main/photo.jpg)
+<!-- Another way to post an image
+![profile_pic](https://github.com/mmala00/Profile/blob/main/photo.jpg) -->
 
 <!-- CONTACT Section Ends -->
 

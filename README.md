@@ -24,11 +24,13 @@
 
 Seasoned IT Professional with over 10 years of experience in Retail, IT, and Investment Banking. Has strong background in Data Management and Governance, IT Support Service, and Incident and Change Management process. Worked as software developer and application support roles. 
 
-<!-- Add link to the sections -->
+<!-- Add link to the sections 
 [Experience](#experience) <br>
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+
+-->
 
 <!-- ABOUT Section Ends -->
 

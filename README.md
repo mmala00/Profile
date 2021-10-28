@@ -6,9 +6,11 @@
 <!-- Add your details -->
 ✉️: email_id@xxxxx.com 
 &nbsp;&nbsp; 📲 +65-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/maribelle/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/) 
 
-<img src="https://github.com/mmala00/Profile/blob/main/photo.jpg" width="80">
+<!-- <img src="https://github.com/mmala00/Profile/blob/main/photo.jpg" width="80"> -->
+
+<img src="https://www.nicepng.com/png/full/581-5813755_panda-bear-clipart-panda-cartoon-png.png" width="110">
 
 <!-- Another way to post an image
 ![profile_pic](https://github.com/mmala00/Profile/blob/main/photo.jpg) -->
